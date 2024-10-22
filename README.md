@@ -14,7 +14,7 @@
 - Universatility in use
 - The measurement accuracy is limited only by the sensitivity of the tube, which can be changed programmatically for recalculation
 
-Learn more about features of CG-Anem in [extras](https://github.com/climateguard/RadSens/tree/master/extras)
+Learn more about features of CG-HV-Generator in [extras](https://github.com/climateguard/CG-hv-gen/tree/master/extras)
 
 **You can buy CG hv generator at:**
 
@@ -23,7 +23,7 @@ Learn more about features of CG-Anem in [extras](https://github.com/climateguard
 -  [Alibaba](https://mashintertorg.trustpass.alibaba.com/productgrouplist-903279422/Electronics.html?spm=a2700.shop_cp.88.14)
 
 ## Installation
-Module fully compatible with our Radsens module. For using it with arduino or other ides please wisit [Radsens page](https://github.com/climateguard/RadSens)
+CG hv generator module is fully compatible with our Radsens module. For using it with arduino or other IDE please wisit [Radsens page](https://github.com/climateguard/RadSens)
 
 ## [](https://github.com/climateguard/RadSens#contact-us)Contact us
 - [ClimateGuard Community in Telegram](https://t.me/climateguard_community)  
